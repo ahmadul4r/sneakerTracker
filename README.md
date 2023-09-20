@@ -23,7 +23,7 @@ The Laced Sneaker Tracker is a Python web scraping project that allows users to 
 
 ## Demo Video
 
-[Watch the Demo Video]([https://www.youtube.com/watch?v=yourvideoid](https://youtu.be/nFfYI-8Gnq8))
+[Watch the Demo Video][https://www.youtube.com/watch?v=yourvideoid](https://youtu.be/nFfYI-8Gnq8)
 
 Check out this brief demo video to see the Sneaker  Tracker in action. Learn how to use the application to find and compare sneakerss effortlessly.
 
